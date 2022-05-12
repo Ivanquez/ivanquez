@@ -1,10 +1,8 @@
-Hi, I'm Ivan from Spain. I'm only 16 years old.
+Hi, I'm Ivan from Spain. I'm only 17 years old.
 
-I'm currently studying and practicing on my own while developing and programming what I like.
+I am currently studying and practicing daily to become a Front-End Developer.
 
-I'm working to bring a personal website where I can document my projects as I do here on Github.
-
-I love to teach everything I like and I'm good at and that's why I will soon bring videos on Youtube and different platforms (in Spanish).
+I record videos for YouTube and create helpful and informative content about web development on my personal blog: https://ivanquez.com (my videos/content is in Spanish).
 
 <hr>
 
