@@ -6,4 +6,4 @@ I record videos for YouTube and create helpful and informative content about web
 
 <hr>
 
-> Thanks for visiting my profile, feel free to contact me via email (contacto@ivanquez.com)
+> Thanks for visiting my profile, feel free to contact me via email (contacto@ivanquez.com / contact@ivanquez.com)
