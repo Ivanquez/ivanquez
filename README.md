@@ -1,9 +1,9 @@
-Hi, I'm Ivan from Spain. I'm only 17 years old.
+Bienvenido, mi nombre es Iván y tengo 17 años.
 
-I am currently studying and practicing daily to become a Front-End Developer.
+Actualmente me encuentro muy feliz estudiando y practicando diariamente para convertirme en un Desarrollador Front-End.
 
-I record videos for YouTube and create helpful and informative content about web development on my personal blog: https://ivanquez.com (my videos/content is in Spanish).
+Cuando saco tiempo libre grabo vídeos para Youtube y creo contenido de ayuda en mi blog: https://ivanquez.com
 
 <hr>
 
-> Thanks for visiting my profile, feel free to contact me via email (contacto@ivanquez.com / contact@ivanquez.com)
+> Gracias por visitar mi perfil, recuerda que puedes contactarme aquí: contacto@ivanquez.com
