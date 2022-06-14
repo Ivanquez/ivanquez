@@ -1,6 +1,6 @@
 Bienvenido, mi nombre es Iván y tengo 17 años.
 
-Me encuentro estudiando y practicando de manera diaria para convertirme en un Desarrollador Front-End
+Me encuentro estudiando y practicando de manera diaria para convertirme en un Desarrollador Full-Stack
 
 Cuando saco tiempo libre grabo vídeos para Youtube y creo contenido de ayuda en mi blog: https://ivanquez.com
 
