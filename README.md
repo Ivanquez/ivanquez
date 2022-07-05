@@ -31,7 +31,7 @@ Bienvenido, mi nombre es Iván y tengo 17 años. Me encuentro estudiando y pract
 &nbsp
 <img src="https://i.ibb.co/689x7Gg/tail.png" alt="Tailwind CSS" height="50" /> 
 &nbsp
-<img src="https://i.ibb.co/D1HnTpT/ionic.png" alt="Firebase" height="50" /> &nbsp
+<img src="https://i.ibb.co/D1HnTpT/ionic.png" alt="Ionic" height="50" /> &nbsp
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 &nbsp
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
